@@ -34,6 +34,4 @@ Talk to me about
   </a>
 
 <br><br><br><br>
-
----
 ⭐️ From [mattsousaa](https://github.com/mattsousaa)
