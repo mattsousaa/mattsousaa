@@ -13,7 +13,7 @@ Talk to me about
 - Microcontrollers **AVR, PIC, STM, KL25Z128, ESP**
 - Microprocessors **BeagleBone Black, Raspberry Pi**
 - Control Systems **Discrete Control, Continuous Control, Robust Control, PID, Robotic**
-- Internet of Things **MQTT, Pahoo, Computing Offloading, Low-Power**
+- Internet of Things **MQTT, Paho, Computing Offloading, Low-Power**
 - Artificial Intelligence **AI Optimized Hardware, Image Recognition, TensorFlow, Machine Learning**
 - Operating Systems **Embedded Linux, Embedded Android, FreeRTOS, Yocto Project, BuildRoot**
 - Parallel Processing **GPU, CUDA**
