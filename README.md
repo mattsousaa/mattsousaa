@@ -14,8 +14,8 @@ Talk to me about
 - Microcontrollers **AVR, PIC, STM, KL25Z128, ESP32, ESP8266**
 - Microprocessors **BeagleBone Black, Raspberry Pi**
 - Protocols **SPI, I2C, CAN, USART**
-- Control Systems **Discrete Control, Continuous Control, Robust Control, PID, Robotic**
-- Signal Processing **Discrete Signals, LTI Systems, ADC, DAC, Fourier Transform, Z Transform, Laplace Transform**
+- Control Systems **Dynamic Systems, Discrete Control, Continuous Control, Robust Control, PID, Robotic**
+- Signal Processing **Discrete and Continuous Signals, LTI Systems, ADC and DAC, Fourier/Laplace/Z Transform**
 - Internet of Things **MQTT, Paho, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
 - Artificial Intelligence **AI Optimized Hardware, Image Recognition, TensorFlow, Machine Learning**
 - Operating Systems **Embedded Linux, Embedded Android, FreeRTOS, Yocto Project, BuildRoot**
