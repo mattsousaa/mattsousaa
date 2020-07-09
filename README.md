@@ -6,7 +6,7 @@ Federal University of Ceará (UFC) - Quixadá Campus :chicken:
 
 ## About me 
 
-:muscle: Workout | :blue_book: Books | :rocket: tecnology | :robot: Embedded Programming
+:muscle: Workout | :blue_book: Books | :rocket: Tecnology | :robot: Embedded Programming
 
 ## ⚡ Technologies
 Talk to me about
