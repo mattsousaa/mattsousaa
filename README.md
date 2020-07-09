@@ -14,7 +14,7 @@ Talk to me about
 - Microprocessors **BeagleBone Black, Raspberry Pi**
 - Protocols **SPI, I2C, CAN, USART**
 - Control Systems **Discrete Control, Continuous Control, Robust Control, PID, Robotic**
-- Signal Processing **ADC, DAC, Fourier Transform, Z Transform, Laplace Transform, LTI Systems**
+- Signal Processing **Discrete Signals, LTI Systems, ADC, DAC, Fourier Transform, Z Transform, Laplace Transform**
 - Internet of Things **MQTT, Paho, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
 - Artificial Intelligence **AI Optimized Hardware, Image Recognition, TensorFlow, Machine Learning**
 - Operating Systems **Embedded Linux, Embedded Android, FreeRTOS, Yocto Project, BuildRoot**
