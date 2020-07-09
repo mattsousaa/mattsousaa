@@ -21,8 +21,6 @@ Talk to me about
 
 ## Social media :mailbox_with_no_mail:
 
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
-
 <br>
 
   <a href="https://www.linkedin.com/in/mattsousaa/">
