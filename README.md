@@ -10,7 +10,7 @@ Federal University of Ceará (UFC) - Quixadá Campus :chicken:
 
 ## ⚡ Technologies
 Talk to me about
-- Microcontrollers **AVR, PIC, STM, KL25Z128, ESP**
+- Microcontrollers **AVR, PIC, STM, KL25Z128, ESP32, ESP8266**
 - Microprocessors **BeagleBone Black, Raspberry Pi**
 - Control Systems **Discrete Control, Continuous Control, Robust Control, PID, Robotic**
 - Internet of Things **MQTT, Paho, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
