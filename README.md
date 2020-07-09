@@ -1,4 +1,4 @@
-# Hi there, I'm Mateus :chicken:
+# Hi there, I'm Mateus
 
 Embedded Systems Developer | Computer engineer :computer:. (In progress)
 
