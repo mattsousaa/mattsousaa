@@ -36,5 +36,5 @@ Talk to me about
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
-<br><br><br><br>
+<br><br>
 ⭐️ From [mattsousaa](https://github.com/mattsousaa)
