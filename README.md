@@ -15,7 +15,7 @@ Talk to me about
 - Microprocessors **BeagleBone Black, Raspberry Pi**
 - Protocols **SPI, I2C, CAN, USART, Ethernet, USB**
 - Prototyping and Simulation tools **MATLAB, Simulink, Octave, Proteus, LTSpice**
-- Control Systems **Dynamic Systems, Discrete and Continuous Control, Robust Control, PID, Robotics**
+- Control Systems **Dynamic Systems, Digital and Continuous Control, Robust Control, PID, Robotics**
 - Signal Processing **Discrete and Continuous Signals, LTI Systems, ADC and DAC, Fourier/Laplace/Z Transform**
 - Internet of Things **MQTT, Paho, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
 - Artificial Intelligence **AI Optimized Hardware, Neural Networks, Image Recognition, TensorFlow, OpenCV, Machine Learning**
