@@ -10,7 +10,7 @@ Federal University of Ceará (UFC) - Quixadá Campus :chicken:
 
 ## ⚡ Technologies
 Talk to me about
-- Programming Languages skills **C, C++, Python, Assembly ARM/x86, VHDL, Java**
+- Programming Languages skills **C, C++, Python, Shell Script, Assembly ARM/x86, VHDL, Java**
 - Microcontrollers **AVR, PIC, STM, KL25Z128, KL46Z256, ESP32, ESP8266**
 - Microprocessors **BeagleBone Black, Raspberry Pi**
 - Protocols **SPI, I2C, CAN, USART, Ethernet, TFTP, USB**
