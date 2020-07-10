@@ -14,6 +14,7 @@ Talk to me about
 - Microcontrollers **AVR, PIC, STM, KL25Z128, KL46Z256, ESP32, ESP8266**
 - Microprocessors **BeagleBone Black, Raspberry Pi**
 - Protocols **SPI, I2C, CAN, USART, Ethernet, USB**
+- Prototyping and Simulation tools **MATLAB, Simulink, Octave, Proteus, LTSpice**
 - Control Systems **Dynamic Systems, Discrete and Continuous Control, Robust Control, PID, Robotics**
 - Signal Processing **Discrete and Continuous Signals, LTI Systems, ADC and DAC, Fourier/Laplace/Z Transform**
 - Internet of Things **MQTT, Paho, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
