@@ -17,7 +17,7 @@ Talk to me about
 - Control Systems **Dynamic Systems, Discrete and Continuous Control, Robust Control, PID, Robotics**
 - Signal Processing **Discrete and Continuous Signals, LTI Systems, ADC and DAC, Fourier/Laplace/Z Transform**
 - Internet of Things **MQTT, Paho, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
-- Artificial Intelligence **AI Optimized Hardware, Image Recognition, TensorFlow, OpenCV, Machine Learning**
+- Artificial Intelligence **AI Optimized Hardware, Neural Networks, Image Recognition, TensorFlow, OpenCV, Machine Learning**
 - Operating Systems **Embedded Linux, Embedded Android, FreeRTOS, Yocto Project, BuildRoot**
 - Parallel Processing **GPU, CUDA**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
