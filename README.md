@@ -19,7 +19,7 @@ Talk to me about
 - Internet of Things **MQTT, Paho, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
 - Artificial Intelligence **AI Optimized Hardware, Neural Networks, Image Recognition, TensorFlow, OpenCV, Machine Learning**
 - Operating Systems **Embedded Linux, Embedded Android, FreeRTOS, Yocto Project, BuildRoot**
-- Parallel Processing **GPU, CUDA**
+- Parallel Processing **GPU, CUDA, Nvidia Jetson Nano**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
 
 ## Social media :mailbox_with_no_mail:
