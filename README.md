@@ -13,7 +13,7 @@ Talk to me about
 - Programming Languages skills **C, C++, Assembly, Python, Java**
 - Microcontrollers **AVR, PIC, STM, KL25Z128, KL46Z256, ESP32, ESP8266**
 - Microprocessors **BeagleBone Black, Raspberry Pi**
-- Protocols **SPI, I2C, CAN, USART**
+- Protocols **SPI, I2C, CAN, USART, Ethernet, USB**
 - Control Systems **Dynamic Systems, Discrete and Continuous Control, Robust Control, PID, Robotics**
 - Signal Processing **Discrete and Continuous Signals, LTI Systems, ADC and DAC, Fourier/Laplace/Z Transform**
 - Internet of Things **MQTT, Paho, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
