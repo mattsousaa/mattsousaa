@@ -13,14 +13,15 @@ Talk to me about
 - Programming Languages skills **C, C++, Python, Assembly ARM/x86, VHDL, Java**
 - Microcontrollers **AVR, PIC, STM, KL25Z128, KL46Z256, ESP32, ESP8266**
 - Microprocessors **BeagleBone Black, Raspberry Pi**
-- Protocols **SPI, I2C, CAN, USART, Ethernet, USB**
+- Protocols **SPI, I2C, CAN, USART, Ethernet, TFTP, USB**
 - Prototyping and Simulation tools **MATLAB, Simulink, Octave, Proteus, LTSpice**
 - Control Systems **Dynamic Systems, Digital and Continuous Control, Robust Control, PID Algorithm, Robotics**
 - Signal Processing **Discrete and Continuous Signals, LTI Systems, ADC and DAC, Fourier/Laplace/Z Transform**
-- Internet of Things **MQTT, Paho, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
-- Artificial Intelligence **AI Optimized Hardware, Neural Networks, Image Recognition, TensorFlow, OpenCV, Machine Learning**
+- Internet of Things **MQTT, RPC, Paho, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
+- Artificial Intelligence **AI Optimized Hardware, Neural Networks, Image Recognition, TensorFlow Lite, OpenCV, Machine Learning**
 - Operating Systems **Embedded Linux, Embedded Android, FreeRTOS, Yocto Project, BuildRoot**
 - Parallel Processing **GPU, CUDA, FPGA, Nvidia Jetson Nano**
+- Frameworks **Django, gRPC, HAL, OpenCL, OpenMP, Libjson, Mongoose, ROS, Protobuf**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
 
 ## Social media :mailbox_with_no_mail:
