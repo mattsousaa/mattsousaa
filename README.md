@@ -24,8 +24,6 @@ Talk to me about
 - Frameworks **Django, gRPC, HAL, OpenCL, OpenMP, Libjson, Mongoose, ROS, Protobuf**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
 
-## Read my article below <a href="https://www.linkedin.com/in/mattsousaa/"> <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-
 ## Social media :mailbox_with_no_mail:
 
 <br>
