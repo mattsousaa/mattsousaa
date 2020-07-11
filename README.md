@@ -1,6 +1,6 @@
 # Hi there, I'm Mateus
 
-Embedded Systems Developer | Computer Engineer :man_technologist: (In progress)
+Embedded Systems Developer | Computer Engineer :man_technologist: </a> <a href="mateuseng_ec@alu.ufc.br"> <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" /> (In progress)
 
 Federal University of Ceará (UFC) - Quixadá Campus :chicken:
 
