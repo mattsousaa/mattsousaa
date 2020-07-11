@@ -6,7 +6,7 @@ Federal University of Ceará (UFC) - Quixadá Campus :chicken:
 
 ## About me 
 
-:muscle: Workout | :blue_book: Books | :rocket: Tecnology | :robot: Embedded Programming | </a> <a href="mateuseng_ec@alu.ufc.br"> <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" />
+:muscle: Workout | :blue_book: Books | :rocket: Tecnology | :robot: Embedded Programming
 
 ## ⚡ Technologies
 Talk to me about
