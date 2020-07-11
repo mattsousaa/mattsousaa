@@ -1,12 +1,12 @@
 # Hi there, I'm Mateus
 
-Embedded Systems Developer | Computer Engineer :man_technologist: </a> <a href="mateuseng_ec@alu.ufc.br"> <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" /> (In progress)
+Embedded Systems Developer | Computer Engineer :man_technologist: (In progress)
 
 Federal University of Ceará (UFC) - Quixadá Campus :chicken:
 
 ## About me 
 
-:muscle: Workout | :blue_book: Books | :rocket: Tecnology | :robot: Embedded Programming
+:muscle: Workout | :blue_book: Books | :rocket: Tecnology | :robot: Embedded Programming | </a> <a href="mateuseng_ec@alu.ufc.br"> <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" />
 
 ## ⚡ Technologies
 Talk to me about
@@ -36,9 +36,6 @@ Talk to me about
   </a>
   <a href="mateuseng_ec@alu.ufc.br">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-  <a href="mateuseng_ec@alu.ufc.br">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" />
   </a>
 
 <br>
