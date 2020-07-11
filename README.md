@@ -24,6 +24,12 @@ Talk to me about
 - Frameworks **Django, gRPC, HAL, OpenCL, OpenMP, Libjson, Mongoose, ROS, Protobuf**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
 
+## Lattes :mailbox_with_no_mail:
+</a>
+  <a href="mateuseng_ec@alu.ufc.br">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/mattsousaa/mattsousaa/blob/master/lattes.svg" />
+  </a>
+
 ## Social media :mailbox_with_no_mail:
 
 <br>
