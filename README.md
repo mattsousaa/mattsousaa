@@ -37,6 +37,9 @@ Talk to me about
   <a href="mateuseng_ec@alu.ufc.br">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+  <a href="mateuseng_ec@alu.ufc.br">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" />
+  </a>
 
 <br>
 
