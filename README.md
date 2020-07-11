@@ -19,7 +19,7 @@ Talk to me about
 - Signal Processing **Discrete and Continuous Signals, LTI Systems, ADC and DAC, Fourier/Laplace/Z Transform**
 - Internet of Things **MQTT, AWS, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
 - Artificial Intelligence **Neural Networks, Image Recognition, TensorFlow Lite, OpenCV, Machine Learning**
-- Operating Systems **Embedded Linux, Embedded Android, MbedOS, FreeRTOS, Yocto Project, BuildRoot**
+- Operating Systems **Embedded Linux, Embedded Android, FreeRTOS, Yocto Project, BuildRoot**
 - Parallel Processing **GPU, CUDA, FPGA, Nvidia Jetson Nano**
 - Frameworks **Django, gRPC, HAL, OpenCL, OpenMP, Libjson, Mongoose, ROS, Protobuf**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
