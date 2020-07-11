@@ -25,6 +25,7 @@ Talk to me about
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
 
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+<i class="ai ai-google-scholar-square ai-3x"></i>
 
 ## Social media :mailbox_with_no_mail:
 
