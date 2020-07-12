@@ -21,7 +21,7 @@ Talk to me about
 - Artificial Intelligence **Neural Networks, Image Recognition, TFLite, OpenCV, Machine Learning**
 - Operating Systems **Embedded Linux, Embedded Android, FreeRTOS, Yocto Project, BuildRoot**
 - Parallel Processing **GPU, CUDA, FPGA, Jetson Nano**
-- Frameworks **ESP-IDF, Django, gRPC, HAL, OpenCL, OpenMP, Libjson, Mongoose, ROS, Protobuf**
+- Frameworks **ESP-IDF, Django, gRPC, STM32 HAL, OpenCL, OpenMP, Libjson, Mongoose, ROS, Protobuf**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
 
 ## Social media :mailbox_with_no_mail:
