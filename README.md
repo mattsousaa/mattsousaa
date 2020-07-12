@@ -18,7 +18,7 @@ Talk to me about
 - Control Systems **Dynamic Systems, Digital and Continuous Control, Robust Control, PID Algorithm, Robotics**
 - Signal Processing **Discrete and Continuous Signals, LTI Systems, ADC and DAC, Fourier/Laplace/Z Transform**
 - Internet of Things **MQTT, OTA Programming, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
-- Artificial Intelligence **Neural Networks, Image Recognition, TensorFlow Lite, OpenCV, Machine Learning**
+- Artificial Intelligence **Neural Networks, Image Recognition, TFLite, OpenCV, Machine Learning**
 - Operating Systems **Embedded Linux, Embedded Android, FreeRTOS, Yocto Project, BuildRoot**
 - Parallel Processing **GPU, CUDA, FPGA, Nvidia Jetson Nano**
 - Frameworks **Django, gRPC, HAL, OpenCL, OpenMP, Libjson, Mongoose, ROS, Protobuf**
