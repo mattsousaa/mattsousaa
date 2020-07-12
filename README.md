@@ -17,7 +17,7 @@ Talk to me about
 - Prototyping and Simulation tools **MATLAB, Simulink, Octave, Proteus, LTSpice**
 - Control Systems **Dynamic Systems, Digital and Continuous Control, Robust Control, PID Algorithm, Robotics**
 - Signal Processing **Discrete and Continuous Signals, LTI Systems, ADC and DAC, Fourier/Laplace/Z Transform**
-- Internet of Things **MQTT, AWS, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
+- Internet of Things **MQTT, Atualização OTA, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
 - Artificial Intelligence **Neural Networks, Image Recognition, TensorFlow Lite, OpenCV, Machine Learning**
 - Operating Systems **Embedded Linux, Embedded Android, FreeRTOS, Yocto Project, BuildRoot**
 - Parallel Processing **GPU, CUDA, FPGA, Nvidia Jetson Nano**
