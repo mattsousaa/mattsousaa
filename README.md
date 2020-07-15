@@ -16,7 +16,7 @@ Talk to me about
 - Protocols **SPI, I2C, CAN, USART, Ethernet, TFTP, USB**
 - Prototyping and Simulation tools **MATLAB, Simulink, Octave, Proteus, LTSpice**
 - Control Systems **Dynamic Systems, Digital and Continuous Control, Robust Control, PID Algorithm, Robotics**
-- Signal Processing **Discrete and Continuous Signals, LTI Systems, ADC and DAC, Fourier/Laplace/Z Transform**
+- Signal Processing **Discrete and Continuous Signals, LTI Systems, PWM, ADC, DAC, Fourier/Laplace/Z Transform**
 - Internet of Things **MQTT, OTA Programming, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
 - Artificial Intelligence **Neural Networks, Image Recognition, TFLite, OpenCV, Machine Learning**
 - Operating Systems **Embedded Linux, Embedded Android, Shell Script, FreeRTOS, Yocto Project, BuildRoot**
