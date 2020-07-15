@@ -10,7 +10,7 @@ Federal University of Ceará (UFC) - Quixadá Campus :chicken:
 
 ## ⚡ Technologies
 Talk to me about
-- Programming Languages **C, C++, Python, Shell Script, Assembly ARM/x86, VHDL, Java**
+- Programming Languages **C, C++, Python, Assembly ARM/x86, VHDL, Java**
 - Microcontrollers **AVR, PIC, STM32, KL25Z128, KL46Z256, ESP-WROOM-32, ESP8266**
 - Microprocessors **BeagleBone Black, Raspberry Pi**
 - Protocols **SPI, I2C, CAN, USART, Ethernet, TFTP, USB**
@@ -19,7 +19,7 @@ Talk to me about
 - Signal Processing **Discrete and Continuous Signals, LTI Systems, ADC and DAC, Fourier/Laplace/Z Transform**
 - Internet of Things **MQTT, OTA Programming, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
 - Artificial Intelligence **Neural Networks, Image Recognition, TFLite, OpenCV, Machine Learning**
-- Operating Systems **Embedded Linux, Embedded Android, FreeRTOS, Yocto Project, BuildRoot**
+- Operating Systems **Embedded Linux, Embedded Android, Shell Script, FreeRTOS, Yocto Project, BuildRoot**
 - Parallel Processing **GPU, CUDA, FPGA, Jetson Nano**
 - Frameworks **ESP-IDF, Django, gRPC, STM32 HAL, OpenCL, OpenMP, Libjson, Mongoose, ROS**
 - **Relational Database Systems** **(PostgreSQL)** as well as for **NoSQL Database Systems** like **MongoDB** and **Firebase**
