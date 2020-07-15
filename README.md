@@ -22,7 +22,7 @@ Talk to me about
 - Operating Systems **Embedded Linux, Embedded Android, FreeRTOS, Yocto Project, BuildRoot**
 - Parallel Processing **GPU, CUDA, FPGA, Jetson Nano**
 - Frameworks **ESP-IDF, Django, gRPC, STM32 HAL, OpenCL, OpenMP, Libjson, Mongoose, ROS**
-- **Relational Database Systems** as well as for **NoSQL Database Systems** like **MongoDB** and **Firebase**
+- **Relational Database Systems** **(PostgreSQL)** as well as for **NoSQL Database Systems** like **MongoDB** and **Firebase**
 
 ## Social media :mailbox_with_no_mail:
 
