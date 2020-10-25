@@ -1,6 +1,6 @@
 # Hi there, I'm Mateus
 
-Embedded Systems Developer | Computer Engineer :man_technologist: (In progress)
+Embedded Systems Developer | Computer Engineer :man_technologist:
 
 Federal University of Ceará (UFC) - Quixadá Campus :chicken:
 
