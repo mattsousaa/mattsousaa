@@ -24,11 +24,10 @@ Talk to me about
 - Frameworks **ESP-IDF, Django, gRPC, STM32 HAL, OpenCL, OpenMP, Libjson, Mongoose, ROS**
 - **Relational Database Systems** **(PostgreSQL)** as well as for **NoSQL Database Systems** like **MongoDB** and **Firebase**
 
-<br>
-
 <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattsousaa&hide=html&layout=compact&theme=buefy"/>
 <td><img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=mattsousaa&theme=buefy"/>
 
+<br>
 <br>
 <br>
 
