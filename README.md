@@ -30,11 +30,10 @@ Talk to me about
 <br>
 <br>
 <br>
-
-## Social media :mailbox_with_no_mail:
-
 <br>
-
+  
+  ## Social media :mailbox_with_no_mail:
+  
   <a href="https://www.linkedin.com/in/mattsousaa/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
