@@ -30,6 +30,7 @@ Talk to me about
 <td><img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=mattsousaa&show_icons=true&hide_border=true"/>
 
 <br>
+<br>
 
 ## Social media :mailbox_with_no_mail:
 
