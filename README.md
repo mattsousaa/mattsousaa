@@ -24,15 +24,9 @@ Talk to me about
 - Frameworks **ESP-IDF, Django, gRPC, STM32 HAL, OpenCL, OpenMP, Libjson, Mongoose, ROS**
 - **Relational Database Systems** **(PostgreSQL)** as well as for **NoSQL Database Systems** like **MongoDB** and **Firebase**
 
-<img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattsousaa&hide=html&layout=compact&theme=buefy"/>
-<td><img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=mattsousaa&theme=buefy"/>
+## Social media :mailbox_with_no_mail:
 
 <br>
-<br>
-<br>
-<br>
-  
-  ## Social media :mailbox_with_no_mail:
   
   <a href="https://www.linkedin.com/in/mattsousaa/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -52,3 +46,5 @@ Talk to me about
 
 <br>
 
+<img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattsousaa&hide=html&layout=compact&theme=buefy"/>
+<td><img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=mattsousaa&theme=buefy"/>
