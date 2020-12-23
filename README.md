@@ -46,5 +46,4 @@ Talk to me about
 
 <br>
 
-<img width="395px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattsousaa&hide=html&layout=compact&theme=buefy"/>
 <td><img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=mattsousaa&theme=buefy"/>
