@@ -1,8 +1,6 @@
 # Hi there, I'm Mateus
 
 <h3 align="left">Social Media:</h3>
-
-<br>
   
   <a href="https://www.linkedin.com/in/mattsousaa/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
