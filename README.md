@@ -47,6 +47,11 @@
   
   </a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mateuseng_ec@alu.ufc.br&tf=1">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" />
+  </a>
+  
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mateuseng_ec@alu.ufc.br&tf=1">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
   </a>
   
@@ -69,5 +74,5 @@
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mateuseng_ec@alu.ufc.br&tf=1">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg
+  
 <br>
