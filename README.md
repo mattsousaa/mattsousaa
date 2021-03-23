@@ -28,12 +28,12 @@
   
   </a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mateuseng_ec@alu.ufc.br&tf=1">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
   </a>
   
   </a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mateuseng_ec@alu.ufc.br&tf=1">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" />
   </a>
   
   <br>
