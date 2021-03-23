@@ -49,6 +49,3 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>  
     </a> 
 </p>
-
-<img height="180em" src="https://github-readme-stats.mattsousaa.vercel.app/api?username=manumanoj0010&show_icons=true&locale=en&hide_border=true" alt="mattsousaa" />
-<img height="180em" src="https://github-readme-stats.mattsousaa.vercel.app/api/top-langs?username=manumanoj0010&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="mattsousaa"/>
