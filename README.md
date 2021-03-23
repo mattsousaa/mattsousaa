@@ -1,4 +1,4 @@
-# Hi there, I'm Mateus ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/mattsousaa)
+# Hi there, I'm Mateus 
 
 ![Maeus Sousa's github stats](https://github-readme-stats.vercel.app/api?username=mattsousaa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
@@ -78,3 +78,5 @@
   </a>
   
 <br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/mattsousaa)
