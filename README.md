@@ -2,8 +2,8 @@
 
 <a href="https://github.com/mattsousaa/github-stats">
 
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/mattsousaa/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/mattsousaa/github-stats/blob/master/generated/languages.svg)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/mattsousaa)
 
