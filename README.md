@@ -1,4 +1,5 @@
-# Hi there, I'm Mateus
+# Hi there, I'm Mateus 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/mattsousaa)
 
 <h3 align="left">Languages and Tools:</h3>
 
