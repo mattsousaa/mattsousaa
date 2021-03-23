@@ -1,6 +1,6 @@
 # Hi there, I'm Mateus
 
-## Social media :mailbox_with_no_mail:
+<h3 align="left">Social Media:</h3>
 
 <br>
   
