@@ -1,11 +1,8 @@
 # Hi there, I'm Mateus 
 
-<a href="https://github.com/mattsousaa/github-stats">
-
-![](https://github.com/mattsousaa/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/mattsousaa/github-stats/blob/master/generated/languages.svg)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/mattsousaa)
+
+![Maeus Sousa's github stats](https://github-readme-stats.vercel.app/api?username=mattsousaa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <h3 align="left">Languages and Tools:</h3>
 
