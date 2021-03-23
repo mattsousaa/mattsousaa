@@ -80,9 +80,7 @@
 
 <!-- start statics fun section -->
 
-<summary><b> Some Statistics Fun </b></summary>
+<h3 align="left">Some Statistics:</h3>
 <img src='https://github-readme-stats.vercel.app/api?username=mattsousaa&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mattsousaa&theme=tokyonight&hide_langs_below=4' />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mattsousaa&theme=dark)
 <!-- end statics fun section -->
