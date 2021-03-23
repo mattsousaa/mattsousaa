@@ -1,4 +1,10 @@
 # Hi there, I'm Mateus 
+
+<a href="https://github.com/mattsousaa/github-stats">
+
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/mattsousaa)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -77,10 +83,3 @@
   </a>
   
 <br>
-
-<!-- start statics fun section -->
-
-<h3 align="left">Some Statistics:</h3>
-<img src='https://github-readme-stats.vercel.app/api?username=mattsousaa&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-
-<!-- end statics fun section -->
