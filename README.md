@@ -1,31 +1,5 @@
 # Hi there, I'm Mateus
 
-Embedded Systems Developer | Computer Engineer :man_technologist:
-
-Federal University of Ceará (UFC) - Quixadá Campus :chicken:
-
-## About me 
-
-:muscle: Workout | :blue_book: Books | :rocket: Tecnology | :robot: Embedded Programming
-
-## ⚡ Technologies
-Talk to me about
-- Programming Languages **C, C++, Python, Assembly ARM/6502/x86, VHDL, Java**
-- Microcontrollers **AVR, PIC, STM32, KL25Z128, KL46Z256, ESP-WROOM-32, ESP8266**
-- Microprocessors **BeagleBone Black, Raspberry Pi**
-- Protocols **SPI, I2C, CAN, USART, Ethernet, TFTP, USB**
-- Prototyping and Simulation tools **MATLAB, Simulink, Octave, Proteus, LTSpice**
-- Control Systems **Dynamic Systems, Digital and Continuous Control, Robust Control, PID Algorithm, Robotics**
-- Signal Processing **Discrete and Continuous Signals, LTI Systems, PWM, ADC, DAC, Fourier/Laplace/Z Transform**
-- Internet of Things **MQTT, OTA Programming, Computing Offloading, Low-Power, LoRa, Wifi, ZigBee, Bluetooth**
-- Artificial Intelligence **Neural Networks, Image Recognition, TFLite, OpenCV, Machine Learning**
-- Operating Systems **Embedded Linux, Embedded Android, Shell Script, FreeRTOS, Yocto Project, BuildRoot**
-- Parallel Processing **GPU, CUDA, FPGA, Jetson Nano**
-- Frameworks **ESP-IDF, Django, gRPC, STM32 HAL, OpenCL, OpenMP, Libjson, Mongoose, ROS**
-- **Relational Database Systems** **(PostgreSQL)** as well as for **NoSQL Database Systems** like **MongoDB** and **Firebase**
-
-<td><img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=mattsousaa&theme=buefy"/>
-
 ## Social media :mailbox_with_no_mail:
 
 <br>
@@ -47,3 +21,34 @@ Talk to me about
   </a>
 
 <br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></code> 
+    </a>  
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></code>  
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></code>  
+    </a>
+    <a href="https://getbootstrap.com" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>  
+    </a> 
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code> 
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>  
+    </a>
+    <a href="https://git-scm.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
+    </a> 
+    <a href="https://www.linux.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>  
+    </a> 
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-19&layout=compact&theme=midnight-purple" alt="Devesh-19" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devesh-19&show_icons=true&theme=midnight-purple" alt="Devesh-19" /></p>
