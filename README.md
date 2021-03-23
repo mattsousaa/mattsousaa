@@ -3,7 +3,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
     <a href="https://www.w3.org/html/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code>
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="26" height="26"/> </code>
     </a>  
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>
