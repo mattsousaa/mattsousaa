@@ -59,6 +59,8 @@
     <img align="left" alt="PostgreeSQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
   </a>
 
+<br>
+
 <h3 align="left">Social Media:</h3>
   
   <a href="https://www.linkedin.com/in/mattsousaa/">
