@@ -18,7 +18,7 @@
   </a>
   
 <a href="https://www.learn-c.org/">
-    <img align="left" alt="C" width="35px" src="https://github.com/mattsousaa/mattsousaa/blob/master/png-clipart-nxp-semiconductors-nasdaq-nxpi-nexperia-radio-frequency-identification-nxp-semiconductors-nasdaqnxpi.png" />
+    <img align="left" alt="C" width="35px" src="https://github.com/mattsousaa/mattsousaa/blob/master/NXP-Logo.svg" />
   </a>
   
 <br>
