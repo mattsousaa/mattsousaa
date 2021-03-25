@@ -9,7 +9,7 @@
     <img align="left" alt="C" width="35px" src="https://github.com/mattsousaa/mattsousaa/blob/master/475px-Raspberry_Pi_Logo.svg" />
   </a>
 <a href="https://www.learn-c.org/">
-    <img align="left" alt="C" width="35px" src="https://github.com/mattsousaa/mattsousaa/blob/master/beagle.png" />
+    <img align="left" alt="C" width="37px" src="https://github.com/mattsousaa/mattsousaa/blob/master/beagle.png" />
   </a>
   
 <br>
