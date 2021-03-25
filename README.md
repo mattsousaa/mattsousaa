@@ -2,7 +2,6 @@
 
 ![Maeus Sousa's github stats](https://github-readme-stats.vercel.app/api?username=mattsousaa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-
 <h3 align="left">Embedded Platforms:</h3>
 
 <a href="https://www.learn-c.org/">
@@ -15,6 +14,10 @@
   
 <a href="https://www.learn-c.org/">
     <img align="left" alt="C" width="37px" src="https://github.com/mattsousaa/mattsousaa/blob/master/beagle.png" />
+  </a>
+  
+<a href="https://www.learn-c.org/">
+    <img align="left" alt="C" width="37px" src="https://github.com/mattsousaa/mattsousaa/blob/master/STMicroelectronics-Logo.svg" />
   </a>
   
 <a href="https://www.learn-c.org/">
