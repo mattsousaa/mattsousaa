@@ -17,7 +17,7 @@
   </a>
   
 <a href="https://www.learn-c.org/">
-    <img align="left" alt="C" width="60px" src="https://github.com/mattsousaa/mattsousaa/blob/master/STMicroelectronics-Logo.svg" />
+    <img align="left" alt="C" width="70px" src="https://github.com/mattsousaa/mattsousaa/blob/master/STMicroelectronics-Logo.svg" />
   </a>
   
 <a href="https://www.learn-c.org/">
