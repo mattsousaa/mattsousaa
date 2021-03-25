@@ -2,11 +2,15 @@
 
 ![Maeus Sousa's github stats](https://github-readme-stats.vercel.app/api?username=mattsousaa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+
+<h3 align="left">Embedded Platforms:</h3>
+
 <a href="https://www.learn-c.org/">
     <img align="left" alt="C" width="35px" src="https://github.com/mattsousaa/mattsousaa/blob/master/475px-Raspberry_Pi_Logo.svg" />
   </a>
-
-
+  
+<br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
