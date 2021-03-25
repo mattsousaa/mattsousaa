@@ -6,8 +6,13 @@
 <h3 align="left">Embedded Platforms:</h3>
 
 <a href="https://www.learn-c.org/">
+    <img align="left" alt="C" width="35px" src="https://github.com/mattsousaa/mattsousaa/blob/master/arduino-seeklogo.com.svg" />
+  </a>
+
+<a href="https://www.learn-c.org/">
     <img align="left" alt="C" width="35px" src="https://github.com/mattsousaa/mattsousaa/blob/master/475px-Raspberry_Pi_Logo.svg" />
   </a>
+  
 <a href="https://www.learn-c.org/">
     <img align="left" alt="C" width="37px" src="https://github.com/mattsousaa/mattsousaa/blob/master/beagle.png" />
   </a>
