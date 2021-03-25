@@ -6,7 +6,7 @@
 <h3 align="left">Embedded Platforms:</h3>
 
 <a href="https://www.learn-c.org/">
-    <img align="left" alt="C" width="35px" src="https://github.com/mattsousaa/mattsousaa/blob/master/arduino-seeklogo.com.svg" />
+    <img align="left" alt="C" width="39px" src="https://github.com/mattsousaa/mattsousaa/blob/master/arduino-seeklogo.com.svg" />
   </a>
 
 <a href="https://www.learn-c.org/">
