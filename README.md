@@ -18,7 +18,7 @@
   </a>
   
 <a href="https://www.learn-c.org/">
-    <img align="bottom" alt="C" width="65px" src="https://github.com/mattsousaa/mattsousaa/blob/master/nxp-semiconductors-logo.svg" />
+    <img align="center" alt="C" width="65px" src="https://github.com/mattsousaa/mattsousaa/blob/master/nxp-semiconductors-logo.svg" />
   </a>
   
 <br>
