@@ -25,7 +25,7 @@
   </a>
   
 <a href="https://www.learn-c.org/">
-    <img align="left" alt="C" width="46px" src="https://github.com/mattsousaa/mattsousaa/blob/master/xilinx.png" />
+    <img align="left" alt="C" width="55px" src="https://github.com/mattsousaa/mattsousaa/blob/master/xilinx.png" />
   </a>
   
 <a href="https://www.learn-c.org/">
