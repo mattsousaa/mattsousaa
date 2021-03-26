@@ -21,6 +21,10 @@
   </a>
   
 <a href="https://www.learn-c.org/">
+    <img align="left" alt="C" width="72px" src="https://github.com/mattsousaa/mattsousaa/blob/master/espressif.svg" />
+  </a>
+  
+<a href="https://www.learn-c.org/">
     <img  alt="C" width="65px" src="https://github.com/mattsousaa/mattsousaa/blob/master/nxp-semiconductors-logo.svg" />
   </a>
   
