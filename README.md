@@ -95,7 +95,7 @@
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
   <a href="https://www.facebook.com/mateus.sousa.589/">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/mattsousaa/mattsousaa/blob/master/facebook.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/mattsousaa/mattsousaa/blob/master/icons/facebook.svg" />
   </a>
   <a href="https://www.instagram.com/mat.sousaa/?hl=pt-br">
     <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
