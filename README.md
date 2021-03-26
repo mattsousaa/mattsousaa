@@ -23,12 +23,6 @@
 <a href="http://espressif.com//">
     <img align="left" alt="C" width="46px" src="https://github.com/mattsousaa/mattsousaa/blob/master/espressif.svg" />
   </a>
-  
-<a href="https://www.nxp.com/">
-    <img  alt="C" width="65px" src="https://github.com/mattsousaa/mattsousaa/blob/master/nxp.png" />
-  </a>
-  
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
