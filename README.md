@@ -4,31 +4,27 @@
 
 <h3 align="left">Embedded Platforms:</h3>
 
-<a href="https://www.learn-c.org/">
-    <img align="left" alt="C" width="43px" src="https://github.com/mattsousaa/mattsousaa/blob/master/arduino-seeklogo.com.svg" />
+<a href="https://www.arduino.cc/">
+    <img align="left" alt="arduino" width="43px" src="https://github.com/mattsousaa/mattsousaa/blob/master/arduino-seeklogo.com.svg" />
   </a>
 
-<a href="https://www.learn-c.org/">
+<a href="https://www.raspberrypi.org/">
     <img align="left" alt="C" width="35px" src="https://github.com/mattsousaa/mattsousaa/blob/master/475px-Raspberry_Pi_Logo.svg" />
   </a>
   
-<a href="https://www.learn-c.org/">
+<a href="https://beagleboard.org/bone">
     <img align="left" alt="C" width="37px" src="https://github.com/mattsousaa/mattsousaa/blob/master/beagle.png" />
   </a>
   
-<a href="https://www.learn-c.org/">
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html">
     <img align="left" alt="C" width="72px" src="https://github.com/mattsousaa/mattsousaa/blob/master/STMicroelectronics-Logo.svg" />
   </a>
   
-<a href="https://www.learn-c.org/">
+<a href="http://espressif.com//">
     <img align="left" alt="C" width="46px" src="https://github.com/mattsousaa/mattsousaa/blob/master/espressif.svg" />
   </a>
   
-<a href="https://www.learn-c.org/">
-    <img align="left" alt="C" width="65px" src="https://github.com/mattsousaa/mattsousaa/blob/master/xilinx.png" />
-  </a>
-  
-<a href="https://www.learn-c.org/">
+<a href="https://www.nxp.com/">
     <img  alt="C" width="65px" src="https://github.com/mattsousaa/mattsousaa/blob/master/nxp-semiconductors-logo.svg" />
   </a>
   
