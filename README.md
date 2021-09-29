@@ -139,11 +139,6 @@
   
   </a>
   <a href="https://www.mathworks.com/">
-    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
-  </a>
-  
-  </a>
-  <a href="https://www.mathworks.com/">
     <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
   </a>
   
