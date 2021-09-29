@@ -26,7 +26,6 @@
     <img align="left" alt="C" width="46px" src="https://github.com/mattsousaa/mattsousaa/blob/master/icons/espressif.svg" />
   </a>
 <br>
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
