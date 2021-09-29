@@ -60,6 +60,11 @@
     <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
   </a>
   
+   </a>
+  <a href="https://www.mathworks.com/">
+    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
+  </a>
+  
   </a>
   <a href="https://www.mathworks.com/">
     <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
