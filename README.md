@@ -116,6 +116,51 @@
   <a href="https://www.mathworks.com/">
     <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" />
   </a>
+  
+  </a>
+  <a href="https://www.mathworks.com/">
+    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" />
+  </a>
+  
+  </a>
+  <a href="https://www.mathworks.com/">
+    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" />
+  </a>
+  
+  </a>
+  <a href="https://www.mathworks.com/">
+    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  </a>
+  
+  </a>
+  <a href="https://www.mathworks.com/">
+    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
+  </a>
+  
+  </a>
+  <a href="https://www.mathworks.com/">
+    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
+  </a>
+  
+  </a>
+  <a href="https://www.mathworks.com/">
+    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
+  </a>
+  
+  </a>
+  <a href="https://www.mathworks.com/">
+    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
+  </a>
+  
+  </a>
+  <a href="https://www.mathworks.com/">
+    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
+  </a>
+  
+  </a>
+  <a href="https://www.mathworks.com/">
+    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+  </a>
 
 <br>
 
