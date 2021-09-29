@@ -94,6 +94,8 @@
     <img align="left" alt="Firebase" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" />
   </a>
   
+  <br>
+  
   </a>
   <a href="https://www.postgresql.org/">
     <img align="left" alt="PostgreeSQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
