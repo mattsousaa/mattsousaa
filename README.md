@@ -118,15 +118,7 @@
   <a href="https://www.linkedin.com/in/mattsousaa/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/mattsousaa1">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.facebook.com/mateus.sousa.589/">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/mattsousaa/mattsousaa/blob/master/icons/facebook.svg" />
-  </a>
-  <a href="https://www.instagram.com/mat.sousaa/?hl=pt-br">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
+
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mateuseng_ec@alu.ufc.br&tf=1">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
