@@ -113,7 +113,7 @@
 <br>
 <br>
 
-<h3 align="left">Social Media:</h3>
+<h3 align="left">How to reach me:</h3>
   
   <a href="https://www.linkedin.com/in/mattsousaa/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
