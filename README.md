@@ -42,27 +42,9 @@
   <a href="https://www.java.com/pt-BR/">
     <img align="left" alt="Java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
   </a>
-  </a>
-  <a href="https://developer.android.com/studio">
-    <img align="left" alt="Android" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
-  </a>
+  
   <a href="https://developer.mozilla.org/en-US/">
     <img align="left" alt="JS" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-  </a>
-  
-  </a>
-  <a href="https://www.mathworks.com/">
-    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
-  </a>
-  
-  </a>
-  <a href="https://www.mathworks.com/">
-    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
-  </a>
-  
-   </a>
-  <a href="https://www.mathworks.com/">
-    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
   </a>
   
   </a>
@@ -94,27 +76,12 @@
     <img align="left" alt="Mongodb" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
   </a>
   
-  </a>
-  <a href="https://firebase.google.com/?hl=pt-br">
-    <img align="left" alt="Firebase" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" />
-  </a>
-  
   <br>
   <br>
   
   </a>
   <a href="https://www.postgresql.org/">
     <img align="left" alt="PostgreeSQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
-  </a>
-  
-  </a>
-  <a href="https://www.mathworks.com/">
-    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-  </a>
-  
-  </a>
-  <a href="https://www.mathworks.com/">
-    <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" />
   </a>
   
   </a>
