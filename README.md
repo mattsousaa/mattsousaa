@@ -76,9 +76,6 @@
     <img align="left" alt="Mongodb" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
   </a>
   
-  <br>
-  <br>
-  
   </a>
   <a href="https://www.postgresql.org/">
     <img align="left" alt="PostgreeSQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
@@ -103,6 +100,9 @@
   <a href="https://www.mathworks.com/">
     <img align="left" alt="Matlab" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
   </a>
+  
+  <br>
+  <br>
   
   </a>
   <a href="https://www.mathworks.com/">
